@@ -1,5 +1,5 @@
 import { galleryItems } from './gallery-items.js';
-
+import 'simpleLightbox/dist/simple-lightbox.min.css';
 
 const imageListEl = document.querySelector('.gallery');
 
